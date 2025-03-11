@@ -1,0 +1,17 @@
+.ticket{
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+.ticket span{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    background: #619c67;
+    color: black;
+    margin: 0 50px;
+    font-size: x-large;
+}
